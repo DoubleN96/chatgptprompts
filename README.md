@@ -9,4 +9,4 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun using ChatGPT!
 
-In this section I´m going to organize the Prompts that I use to get the maximum profit out of Chatgpt
+> In this section I´m going to organize the Prompts that I use to get the maximum profit out of Chatgpt
